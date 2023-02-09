@@ -1,7 +1,5 @@
 # Projeto-Banco-de-Dados
 4° Projeto individual da Resilia.
-# Projeto-Banco-de-Dados
-4° Projeto individual da Resilia.
 
 Meu quarto projeto individual do módulo  IIII da RESÍLIA EDUCAÇÃO. 
 Que consiste em modelar um banco de dados que vai armazenar as entidades cursos, turmas e alunos.
