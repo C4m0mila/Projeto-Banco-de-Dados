@@ -25,14 +25,6 @@ Que consiste em modelar um banco de dados que vai armazenar as entidades cursos,
  É  apresentado no banco de dados, pela foreign key que é uma referência em uma tabela a uma primary key de outra tabela. 
  
  <br><br>
- **TABELAS**
- <br>
-  <img alt="tabela alunos" src="">
- <br><br><br>
-  **INSERT**
-  <br>
-  <img alt="tabela cursos" src="">
-   <br><br><br>
   **TABELA TURMAS**
   <br>
   <img alt="tabela turmas" src="https://raw.githubusercontent.com/C4m0mila/Projeto-Banco-de-Dados/main/img/Tabelas.png">
